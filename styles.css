@@ -1,7 +1,36 @@
-img {
-  width: 20%
+h1 {
+  font-family:Amatic SC;
+  font-size:100px;
+}
+
+h3 {
+  font-family:Amatic SC;
+  font-size: 40px;
+}
+
+h2 {
+  font-family:Amatic SC;
+  font-size: 40px;
 }
 
 body{
- 
+  background: linear-gradient(to right, RoyalBlue, Silver)
+} 
+
+h3{
+  background: linear-gradient(to right, White, White);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2{
+  background: linear-gradient(to right, White, White);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h1{
+  background: linear-gradient(to right, White, White);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
