@@ -14,7 +14,8 @@ h2 {
 }
 
 body{
-  background: linear-gradient(to right, RoyalBlue, Silver)
+  background: RoyalBlue
+  /*background: linear-gradient(to right, RoyalBlue, Silver)
 } 
 
 h3{
