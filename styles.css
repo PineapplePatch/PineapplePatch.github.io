@@ -14,8 +14,9 @@ h2 {
 }
 
 body{
-  background: RoyalBlue;
-  /*background: linear-gradient(to right, RoyalBlue, Silver)
+  //background: RoyalBlue;
+  background-image: linear-gradient(bottom, #ff8b01 0%, #ffb547 100%), linear-gradient(bottom, #ff8b01 0%, #ffb547 100%);
+  background-image: linear-gradient(to top, #ff8b01 0%, #ffb547 100%), linear-gradient(to top, #ff8b01 0%, #ffb547 100%);
 } 
 
 h3{
@@ -35,4 +36,4 @@ h1{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-*/
+
