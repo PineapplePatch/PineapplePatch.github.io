@@ -14,8 +14,7 @@ h2 {
 }
 
 body{
-   -webkit-linear-gradient(0 100%, 100% 0, color-stop(0.25, rgba(0, 0, 0, 0.2)), color-stop(0.25, transparent)), -webkit-linear-gradient(0 0, 100% 100%, color-stop(0.25, rgba(0, 0, 0, 0.2)), color-stop(0.25, transparent)), -webkit-linear-gradient(0 100%, 100% 0, color-stop(0.75, transparent), color-stop(0.75, rgba(0, 0, 0, 0.2))), -webkit-linear-gradient(0 0, 100% 100%, color-stop(0.75, transparent), color-stop(0.75, rgba(0, 0, 0, 0.2)));
-
+  background: -webkit-linear-gradient(to right, White, White);
 } 
 
 h3{
