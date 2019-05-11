@@ -18,19 +18,13 @@ body{
 } 
 
 h3{
-  background: linear-gradient(to right, White, White);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: white
 }
 
 h2{
-  background: linear-gradient(to right, White, White);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: white
 }
 
 h1{
-  background: linear-gradient(to right, White, White);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: white
 }
