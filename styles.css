@@ -14,7 +14,7 @@ h2 {
 }
 
 body{
-  background: -webkit-linear-gradient(to right, White, White);
+  background: linear-gradient(to right, RoyalBlue, Silver)
 } 
 
 h3{
@@ -34,4 +34,3 @@ h1{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
